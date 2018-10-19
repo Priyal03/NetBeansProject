@@ -1,0 +1,1 @@
+(function(){stButtons.processCB({"google":16891,"facebook":351,"linkedin":1,"email":5,"googleplus":22,"twitter":9,"clicks_total":17244,"yahoo":8,"total":17287,"shares":{"linkedin":1,"email":1,"googleplus":10,"twitter":9,"facebook":22,"all":41},"url":"http:\/\/www.javatpoint.com\/RMI","ourl":"http:\/\/www.javatpoint.com\/RMI#skeleton"})})();
